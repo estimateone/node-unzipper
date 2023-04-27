@@ -29,7 +29,7 @@
     "duplexer2": "~0.1.4",
     "fstream": "^1.0.12",
     "graceful-fs": "^4.2.2",
-    "readable-stream": "~2.3.6",
+    "readable-stream": "~2.3.6"
   },
   "devDependencies": {
     "aws-sdk": "^2.77.0",
