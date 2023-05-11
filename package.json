@@ -19,13 +19,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZJONSSON/node-unzipper.git"
+    "url": "https://github.com/estimateone/node-unzipper.git"
   },
   "license": "MIT",
   "dependencies": {
     "big-integer": "^1.6.17",
     "binary": "~0.3.0",
-    "bluebird": "~3.4.1",
     "duplexer2": "~0.1.4",
     "fstream": "^1.0.12",
     "graceful-fs": "^4.2.2",
